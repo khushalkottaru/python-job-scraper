@@ -1,0 +1,12 @@
+{
+    "output_filename": "jobs.csv",
+    "filter_keywords": [
+        "software",
+        "python",
+        "developer",
+        "senior",
+        "manager"
+    ],
+    "number_of_scrapes": 0,
+    "connection_timeout": 10
+}
